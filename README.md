@@ -28,7 +28,7 @@ Este programa es para comprar una casa en un fraccionamiento. Las opciones dadas
 <ul>
 <li>El colonial</li>
 <li>Entrada dividida </li>
-<li>De una sola planta<li>
+<li>De una sola planta</li>
 </ul>
 Se busca una casa por el precio base y su área en pie cuadrado.
 </p>
