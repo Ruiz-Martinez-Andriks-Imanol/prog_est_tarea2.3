@@ -1,23 +1,23 @@
-/* * Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 10/02/2022
+/* * Autor: Andriks Imanol Ruiz Mart铆nez, Realizado: 10/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programaci髇 Estructrada
+Materia: Programaci贸n Estructrada
 Ciclo: 01/2022
 
-Este es un programa de condicionales en Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa de condicionales en Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
 
     -Variables flotantes
     -printf para mostrar mensajes y variables
     -scanf
-    -El uso de include para las librer韆s
+    -El uso de include para las librer铆as
     -Condicionales
-    -Espaciado \t y el salto de rengl髇 \n
-    -Operadores l骻icos
-    -Comentarios para la documentaci髇 interna del programa
+    -Espaciado \t y el salto de rengl贸n \n
+    -Operadores l贸gicos
+    -Comentarios para la documentaci贸n interna del programa
 */
 #include<stdio.h>
 int main() {
-	//Declaraci髇
+	//Declaraci贸n
 	float colonial, dividida, planta,area1, area2, area3,valor, valor2, valor3;
 	//Entrada de datos
 	printf("Introduce el precio base de la casa Colonial: \n");
