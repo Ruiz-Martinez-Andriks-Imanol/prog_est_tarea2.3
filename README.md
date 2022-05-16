@@ -1,8 +1,8 @@
 # prog_est_tarea2.3
-<p>Autor: Andriks Imanol Ruiz Martínez, Fecha: 10/02/2022 <br>
-Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructurada <br>
-Ciclo: 01/2022</p>
+<p><b>Autor:</b> Andriks Imanol Ruiz Martínez, <b>Fecha:</b> 10/02/2022 <br>
+  <b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa <br>
+  <b>Materia:</b> Programación Estructurada <br>
+  <b>Ciclo:</b> 01/2022</p>
 <br>
 <p>Este es un programa de condicionales en Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
@@ -18,10 +18,10 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-Objetivo: Hacer un programa para comprar una casa en un fraccionamiento.
+<b>Objetivo:</b> Hacer un programa para comprar una casa en un fraccionamiento.
 <br>
 <br>
-<p>Breve descripción: 
+<p><b>Breve descripción:</b> 
 Es un programa para imprimir el precio neto de cada ejemplar de las novelas y el número de ejemplares que se venderán.
 <br>
 Este programa es para comprar una casa en un fraccionamiento. Las opciones dadas son: 
